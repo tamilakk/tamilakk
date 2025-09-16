@@ -1,8 +1,8 @@
-# Hey there 👋, I'm [Твоё имя]!
+# Hey there 👋, I'm Tamila!
 
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://linkedin.com/in/твоя-ссылка) 
-[![Instagram Badge](https://img.shields.io/badge/-Instagram-purple?style=flat&logo=instagram&logoColor=white)](https://instagram.com/твоя-ссылка) 
-[![Twitter Badge](https://img.shields.io/badge/-Twitter-blue?style=flat&logo=twitter&logoColor=white)](https://twitter.com/твоя-ссылка) 
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://linkedin.com/in/твоя-ссылка](https://www.linkedin.com/in/tamila-kenessova-18a956237/)) 
+[![Instagram Badge](https://img.shields.io/badge/-Instagram-purple?style=flat&logo=instagram&logoColor=white)](https://instagram.com/твоя-ссылка](https://www.instagram.com/tmlknsv/)) 
+[![Facebook Badge](https://img.shields.io/badge/-Facebook-blue?style=flat&logo=twitter&logoColor=white)](https://twitter.com/твоя-ссылка](https://www.facebook.com/profile.php?id=100094359905458)) 
 
 ---
 
