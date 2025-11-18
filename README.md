@@ -6,7 +6,7 @@
 
 ---
 
-### 👩‍💻 Glad to see you here!
+### Glad to see you here!
 
 I am a **Software Engineer** and a **3rd-year student at Czech Technical University in Prague (CVUT)** currently working on my bachelor thesis.  
 Passionate about **web development** and **UX/UI design**, I enjoy creating meaningful user experiences that connect technology with creativity.  
@@ -14,14 +14,14 @@ Passionate about **web development** and **UX/UI design**, I enjoy creating mean
 Alongside my studies, I work for a Kazakh company as a **Graphic Designer**, where I design YouTube & Instagram covers, logos, brochures, and posters.  
 This creative background gives me a unique perspective in tech — combining code with design to build products that are both functional and beautiful.  
 
-- 💻 Working with **JavaScript, Java, React, Next.js**  
-- 📚 Learning **TypeScript, MongoDB**  
-- 🎨 Experience in **graphic & UI/UX design**  
-- 🚀 Interested in building scalable and user-friendly digital solutions  
+- Working with **JavaScript, Java, React, Next.js**  
+- Learning **TypeScript, MongoDB**  
+- Experience in **graphic & UI/UX design**  
+- Interested in building scalable and user-friendly digital solutions  
 
 ---
 
-### 🌟 A Little Motivation:
+### A Little Motivation:
 I believe in growing step by step — with consistency, curiosity, and creativity.  
 Every line of code, every design, and every challenge is an opportunity to shape a better version of myself and to contribute something valuable to others.  
 
