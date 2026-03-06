@@ -41,11 +41,8 @@ Every line of code, every design, and every challenge is an opportunity to shape
 ![Java](https://img.shields.io/badge/-Java-black?style=flat&logo=java)
 ![React](https://img.shields.io/badge/-React-black?style=flat&logo=react)
 ![Next.js](https://img.shields.io/badge/-Next.js-black?style=flat&logo=next.js)
-![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat&logo=mongodb)
 ![Git](https://img.shields.io/badge/-Git-black?style=flat&logo=git)
 ![Figma](https://img.shields.io/badge/-Figma-black?style=flat&logo=figma)
-![Adobe Photoshop](https://img.shields.io/badge/-Photoshop-black?style=flat&logo=adobe-photoshop)
-![Adobe Illustrator](https://img.shields.io/badge/-Illustrator-black?style=flat&logo=adobe-illustrator)
 
 ---
 
