@@ -16,22 +16,8 @@ This creative background gives me a unique perspective in tech — combining cod
 - Working with **JavaScript, Java, React, Next.js**  
 - Learning **TypeScript**  
 - Experience in **graphic & UI/UX design**  
-- Interested in building scalable and user-friendly digital solutions  
-
----
-
-### A Little Motivation:
-I believe in growing step by step — with consistency, curiosity, and creativity.  
-Every line of code, every design, and every challenge is an opportunity to shape a better version of myself and to contribute something valuable to others.  
-
-> *“The best way to predict the future is to invent it.”*  
-— Alan Kay  
-
----
-
-### ☕ Like my work?
-[![BuyMeACoffee](https://img.shields.io/badge/-Buy%20me%20a%20coffee-yellow?style=flat&logo=buy-me-a-coffee)](https://buymeacoffee.com/your-link)
-
+- Interested in building scalable and user-friendly digital solutions
+- 
 ---
 
 ### 🛠 Languages and Tools:
@@ -42,13 +28,6 @@ Every line of code, every design, and every challenge is an opportunity to shape
 ![Next.js](https://img.shields.io/badge/-Next.js-black?style=flat&logo=next.js)
 ![Git](https://img.shields.io/badge/-Git-black?style=flat&logo=git)
 ![Figma](https://img.shields.io/badge/-Figma-black?style=flat&logo=figma)
-
----
-
-### 📊 Projects and Dev Stuffs:
-- ⚡ [Github Stats](https://github.com/anuraghazra/github-readme-stats)  
-- 📈 [Github Streaks](https://git.io/streak-stats)  
-- 🎨 Design & Development projects blending **tech + creativity**  
 
 ---
 
