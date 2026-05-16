@@ -17,7 +17,6 @@ This creative background gives me a unique perspective in tech — combining cod
 - Learning **TypeScript**  
 - Experience in **graphic & UI/UX design**  
 - Interested in building scalable and user-friendly digital solutions
-- 
 ---
 
 ### 🛠 Languages and Tools:
